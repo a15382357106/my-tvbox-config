@@ -1,0 +1,162 @@
+{
+  "spider": "https://img2.tofaka.com/autoupload/f/eja2s/20261019/Fwil/0X0/123aaq.png;md5;2d842238d97d949fef5c679cb876f81d",
+  "sites": [
+    {
+      "key": "肥猫",
+      "name": "🐼┃肥猫┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt|oW5UxZ5kWVr1DI69"
+    },
+    {
+      "key": "config",
+      "name": "🐼┃配置┃中心",
+      "type": 3,
+      "api": "csp_Config",
+      "playerType": 2
+    },
+    {
+      "key": "潮流",
+      "name": "🏜┃潮流┃APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "蔬菜",
+      "name": "🫛┃蔬菜┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "🥇┃金牌┃影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://y2s52n7.com"
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "🌾┃农民┃影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "ext": "https://api.ztcgi.com"
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔥┃火火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "ext": "https://shdy5.us"
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360"
+    },
+    {
+      "key": "厂长",
+      "name": "🏭┃厂长┃影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "ext": "https://www.czzy89.com"
+    },
+    {
+      "key": "csp_SP360",
+      "name": "📺┃360┃官源",
+      "type": 3,
+      "api": "csp_SP360"
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "🤣┃动漫┃巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "ext": "https://dm84.net"
+    },
+    {
+      "key": "方舟",
+      "name": "🐷┃方舟┃动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://www.cyfz.top|e72cdfd629e8895d"
+    },
+    {
+      "key": "番薯",
+      "name": "🍠┃番薯┃动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://app.omofun1.top|66dc309cbeeca454"
+    },
+    {
+      "key": "韩圈",
+      "name": "⭕┃韩圈┃APP",
+      "type": 3,
+      "api": "csp_Hxq"
+    },
+    {
+      "key": "一起",
+      "name": "👀┃一起┃APP",
+      "type": 3,
+      "api": "csp_AppYQK"
+    },
+    {
+      "key": "番茄",
+      "name": "🍅┃番茄┃APP",
+      "type": 3,
+      "api": "csp_AppFQ"
+    },
+    {
+      "key": "咕噜",
+      "name": "🕊┃咕噜┃APP",
+      "type": 3,
+      "api": "csp_Gulu"
+    },
+    {
+      "key": "csp_FirstAid",
+      "name": "🚑┃急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid"
+    },
+    {
+      "key": "看球",
+      "name": "⚾┃看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu"
+    },
+    {
+      "key": "瓜子",
+      "name": "🏀┃瓜子┃体育",
+      "type": 3,
+      "api": "csp_GuaziTY"
+    },
+    {
+      "key": "光盘",
+      "name": "📀┃光盘┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "http://103.217.190.91:5566|hagYExMdMkeWfemK"
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    }
+  ]
+}
